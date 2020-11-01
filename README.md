@@ -9,7 +9,7 @@
 <span align="center">
  <hr>
 <!--  <p align="center"><img src="screenshot/ss@3x-100.jpg" alt="Kas Remaja Apps SS" width="auto" height="auto"></p> -->
- <p align="center">Api documentation Menyusul</p>
+	<p align="center"><i>Api documentation menyusul</i></p>
  <hr>
  <br>
  <h1>Application Android</h1>
