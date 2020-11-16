@@ -12,7 +12,7 @@
 	<p align="center"><i>Api documentation menyusul</i></p>
  <hr>
  <br>
- <h1>Application Android</h1>
+ <h1>Android Application</h1>
  <p>KAS REMAJA App [Zero](http://github.com/akbarabdul80/Kas-Remaja-MVVM)</p>
 
  <h1>Creator</h1>
